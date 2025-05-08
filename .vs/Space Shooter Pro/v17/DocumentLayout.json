@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Farha\\Space Shooter Pro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|c:\\users\\farha\\space shooter pro\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|C:\\Users\\Farha\\Space Shooter Pro\\assets\\script\\main_menu\\main_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\main_menu\\main_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|C:\\Users\\Farha\\Space Shooter Pro\\assets\\script\\triple shot_powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\triple shot_powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|C:\\Users\\Farha\\Space Shooter Pro\\assets\\script\\spawn_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spawn_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|C:\\Users\\Farha\\Space Shooter Pro\\assets\\script\\ui_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|C:\\Users\\Farha\\Space Shooter Pro\\assets\\script\\game_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\game_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|C:\\Users\\Farha\\Space Shooter Pro\\assets\\script\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|C:\\Users\\Farha\\Space Shooter Pro\\assets\\script\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|C:\\Users\\Farha\\Space Shooter Pro\\assets\\script\\enemylaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemylaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|C:\\Users\\Farha\\Space Shooter Pro\\assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|C:\\Users\\Farha\\Space Shooter Pro\\assets\\script\\laser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B0870-692B-5BA0-8D15-5AFDCA269F36}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\laser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Laser.cs",
+              "DocumentMoniker": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\Laser.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Laser.cs",
+              "ToolTip": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\Laser.cs",
+              "RelativeToolTip": "Assets\\Script\\Laser.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:47:07.992Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:49:18.297Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Explosion.cs",
+              "DocumentMoniker": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\Explosion.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Explosion.cs",
+              "ToolTip": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\Explosion.cs",
+              "RelativeToolTip": "Assets\\Script\\Explosion.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:05:53.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Asteroid.cs",
+              "DocumentMoniker": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\Asteroid.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Asteroid.cs",
+              "ToolTip": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\Asteroid.cs",
+              "RelativeToolTip": "Assets\\Script\\Asteroid.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:58:19.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
+              "ToolTip": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\Player.cs",
+              "ViewState": "AQIAAP4AAAAAAAAAAAA3wLMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:37:52.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main_menu.cs",
+              "DocumentMoniker": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\Main_Menu\\main_menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Main_Menu\\main_menu.cs",
+              "ToolTip": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\Main_Menu\\main_menu.cs",
+              "RelativeToolTip": "Assets\\Script\\Main_Menu\\main_menu.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:58:01.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\Game_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Game_Manager.cs",
+              "ToolTip": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\Game_Manager.cs",
+              "RelativeToolTip": "Assets\\Script\\Game_Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:42:37.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UI_Script.cs",
+              "DocumentMoniker": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\UI_Script.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI_Script.cs",
+              "ToolTip": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\UI_Script.cs",
+              "RelativeToolTip": "Assets\\Script\\UI_Script.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAACEAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T05:18:36.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triple Shot_Powerup.cs",
+              "DocumentMoniker": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\Triple Shot_Powerup.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Triple Shot_Powerup.cs",
+              "ToolTip": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\Triple Shot_Powerup.cs",
+              "RelativeToolTip": "Assets\\Script\\Triple Shot_Powerup.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAEAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:35:54.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "spawn_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\spawn_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\spawn_Manager.cs",
+              "ToolTip": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\spawn_Manager.cs",
+              "RelativeToolTip": "Assets\\Script\\spawn_Manager.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAuwCwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:03:22.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyLaser.cs",
+              "DocumentMoniker": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\EnemyLaser.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyLaser.cs",
+              "ToolTip": "C:\\Users\\Farha\\Space Shooter Pro\\Assets\\Script\\EnemyLaser.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyLaser.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:54:32.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

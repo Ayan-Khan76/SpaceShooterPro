@@ -1,0 +1,22 @@
+# Unity generated folders
+Library/
+Logs/
+obj/
+Temp/
+UserSettings/
+MemoryCaptures/
+Build/
+Builds/
+
+# Visual Studio
+.vscode/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.suo
+*.userprefs
+
+# OS junk
+.DS_Store
+Thumbs.db
